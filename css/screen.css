@@ -80,7 +80,9 @@ p, address, ul {
     height: 100%; }
   .hero .hero-text-container {
     width: 600px;
-    text-align: left; }
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px; }
     .hero .hero-text-container h1, .hero .hero-text-container h2, .hero .hero-text-container p, .hero .hero-text-container .button {
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8); }
   .hero .hero-text-right {
