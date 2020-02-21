@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>O Projeto | Mapa do Carnaval de Rua de São Paulo</title>
+<meta name="generator" content="Jekyll v3.8.4" />
+<meta property="og:title" content="O Projeto" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Entenda como o projeto Mapa do Carnaval foi criado" />
+<meta property="og:description" content="Entenda como o projeto Mapa do Carnaval foi criado" />
+<link rel="canonical" href="http://localhost:4000/about.html.peerdustry" />
+<meta property="og:url" content="http://localhost:4000/about.html.peerdustry" />
+<meta property="og:site_name" content="Mapa do Carnaval de Rua de São Paulo" />
+<meta property="og:image" content="https://images.pexels.com/photos/1974100/pexels-photo-1974100.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" />
+<script type="application/ld+json">
+{"description":"Entenda como o projeto Mapa do Carnaval foi criado","headline":"O Projeto","image":"https://images.pexels.com/photos/1974100/pexels-photo-1974100.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260","@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/siteicon.png"}},"url":"http://localhost:4000/about.html.peerdustry","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+		<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Mapa do Carnaval de Rua de São Paulo" />
+
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/images/favicon.png">
+
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300|Rubik:300">
+		<link rel="stylesheet" href="/css/screen.css">
+
+		
+	</head>
+
+	<body>
+		<header id="mainHeader">
+			<div class="container">
+				<div class="company-name">
+					<a href="/">
+						<span class="dark-logo"><img width="104" height="38" src="/images/logo/dark.png" alt="dark frisco logo"></span>
+						<span class="light-logo"><img width="104" height="38" src="/images/logo/light.png" alt="light frisco logo"></span>
+					</a>
+				</div>
+				<nav>
+	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+	
+		
+		
+
+		
+		<a href="/about/" class="" >Sobre o Projeto</a>
+	
+		
+		
+
+		
+		<a href="/contact/" class="" >Contato</a>
+	
+</nav>
+
+				<p class="editor-link"><a style="display:inline;" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a></p>
+			</div>
+		</header>
+
+		<section class="hero" style="background-image: url(https://images.pexels.com/photos/1974100/pexels-photo-1974100.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">Sobre o Projeto CarnaMapa</h1>
+      <p class="subtext editable">Um projeto alternativo para o Carnaval de rua de São Paulo</p>
+		</div>
+	</div>
+</section>
+
+<section class="pad">
+	<div class="container">
+    <div>
+      <p>Esse projeto foi criado por desenvolvedores da <a href="http://peerdustry.com/" target="_blank">Peerdustry</a>. A empresa incentiva o seu time a destinar alguns momentos para criar projetos alternativos, como esse aqui =)
+      </p>
+      <p>
+        Os dados foram extraídos através de um script em python que faz o
+        scrapper das informações dos blocos de rua do site <a href="https://www.blocosderua.com/">Blocos de Rua</a>. Essas mesmas informações estão disponíveis
+        no <a href="https://www.prefeitura.sp.gov.br/carnavalderua/">site da prefeitura de São Paulo</a>.
+      </p>
+      <p>
+        Todo o código está <a href="">disponível online</a>.
+      </p>
+    </div>
+    <hr>
+		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Time </a></p>
+    <p>
+      <b>Todos os envolvidos são desenvolvedores na empresa <a href="http://peerdustry.com/" target="_blank">Peerdustry</a> e adoram o carnaval de rua São Paulo.</b>
+    </p>
+		<ul class="staff">
+			
+				<li>
+					<div class="square-image" style="background-image: url(/images/arthur.jpeg)"></div>
+					<div class="name"><a target="_blank" href="https://twitter.com/arthurmde">Arthur Del Esposte</a></div>
+					<div class="position">Criador</div>
+				</li>
+			
+				<li>
+					<div class="square-image" style="background-image: url(/images/james.jpeg)"></div>
+					<div class="name"><a target="_blank" href="https://twitter.com/jamessk8">James Almeida</a></div>
+					<div class="position">Criador</div>
+				</li>
+			
+				<li>
+					<div class="square-image" style="background-image: url(/images/thiago.jpeg)"></div>
+					<div class="name"><a target="_blank" href="https://twitter.com/ThiagoPetrone">Thiago Petrone</a></div>
+					<div class="position">Criador</div>
+				</li>
+			
+		</ul>
+	</div>
+</section>
+
+
+		<footer>
+			<div class="container">
+				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
+				<ul class="footer-left-links">
+					
+						<li>
+							<a  href="/about/" >
+								
+								Sobre o Projeto
+							</a>
+						</li>
+					
+						<li>
+							<a  href="/contact/" >
+								
+								Contato
+							</a>
+						</li>
+					
+				</ul>
+				<ul class="footer-right-links">
+						<li>Photo by Luis Fernandes from Pexels</li> |
+				    <li>Photo by Rosemary Ketchum from Pexels</li> |
+				    <li>Photo by Vinícius Caricatte from Pexels</li>
+				</ul>
+				<p class="copyright">
+					<a href="https://cloudcannon.com/">
+						Template by CloudCannon
+					</a>
+				</p>
+			</div>
+			<div class="container">
+      </div>
+		</footer>
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script src="/js/main.js"></script>
+	</body>
+</html>
